@@ -19,6 +19,7 @@ Welcome to my portfolio, where I showcase my projects and document  my learnings
 
 ### 👋🏻 Connect with Me
  **mankindlatifat@gmail.com**
+ **[Linkedin](www.linkedin.com/in/titilayo-makinde-7a5330160)**
 
 ### Read My Articles
-- I regularly write articles on [https://medium.com/@mankindlatifat](https://medium.com/@mankindlatifat)
+- I regularly write articles on [medium](https://medium.com/@mankindlatifat)
